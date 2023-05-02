@@ -22,3 +22,7 @@ a, li {
     font-size: larger;
     text-align: center;
 }
+
+.logo {
+    width: 200px;
+}
