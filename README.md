@@ -1,4 +1,4 @@
-# odin-recipes
+# 2_Teeth_Jelly-recipes
 basic recipe website
 
 This is my first HTML coding project for practice.
