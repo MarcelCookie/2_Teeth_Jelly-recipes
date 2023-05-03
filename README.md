@@ -6,5 +6,5 @@ To spice things up, I've decided to create a website of jelly recipes only, for 
 
 The **skills** I will demonstrate:
 - create a basic website
-- use lists, list, images
+- use lists, links, images
 - commit messages and create proper commit messages for useful log 
