@@ -1,9 +1,8 @@
 # 2_Teeth_Jelly-recipes
-basic recipe website
+This project is part of my web dev training. The goal is to create a basic recipe website. The website will consist of a main index page which will have links to a few recipes.
+[https://www.theodinproject.com/lessons/foundations-landing-page](https://www.theodinproject.com/lessons/foundations-recipes)
 
-This is my first HTML coding project for practice.
-In this project, I am building a basic recipe website.
-The website will consist of a main index page which will have links to a few recipes.
+To spice things up, I've decided to create a website of jelly recipes only, for elderly people.
 
 The **skills** I will demonstrate:
 - create a basic website
